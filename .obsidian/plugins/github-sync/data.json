@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:yueyutai/study_notes.git",
+  "gitLocation": "",
+  "syncinterval": 5,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
