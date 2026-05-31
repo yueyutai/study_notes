@@ -53,13 +53,13 @@
     }
   ],
   "pandocPath": {
-    "win32": "\"E:\\yueyutai\\notes\\pandoc.exe\""
+    "win32": "E:\\yueyutai\\notes\\pandoc.exe"
   },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
   "customDefaultExportDirectory": {
-    "win32": "E:\\新建文件夹 (2)"
+    "win32": "E:\\yueyutai\\notes\\studt_notes\\exports"
   }
 }
