@@ -16,7 +16,8 @@
       "name": "Typst"
     },
     {
-      "name": "PDF"
+      "name": "PDF",
+      "customArguments": "--pdf-engine=C:/Users/hp/AppData/Local/Microsoft/WinGet/Links/typst.exe --pdf-engine-opt=--root=E:/"
     },
     {
       "name": "Word (.docx)"
@@ -57,7 +58,12 @@
   },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
-  "env": {},
+  "env": {
+    "win32": {
+      "TEMP": "E:\\yueyutai\\notes\\studt_notes\\.obsidian\\tmp",
+      "TMP": "E:\\yueyutai\\notes\\studt_notes\\.obsidian\\tmp"
+    }
+  },
   "showExportProgressBar": true,
   "customDefaultExportDirectory": {
     "win32": "E:\\yueyutai\\notes\\studt_notes\\exports"
