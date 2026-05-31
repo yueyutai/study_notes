@@ -16,8 +16,7 @@
       "name": "Typst"
     },
     {
-      "name": "PDF",
-      "customArguments": "--pdf-engine=C:/Users/hp/AppData/Local/Microsoft/WinGet/Links/typst.exe --pdf-engine-opt=--root=E:/"
+      "name": "PDF"
     },
     {
       "name": "Word (.docx)"
@@ -54,18 +53,17 @@
     }
   ],
   "pandocPath": {
-    "win32": "E:\\yueyutai\\notes\\pandoc.exe"
+    "win32": "\"E:\\yueyutai\\notes\\pandoc.exe\""
   },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
-  "env": {
-    "win32": {
-      "TEMP": "E:\\yueyutai\\notes\\studt_notes\\.obsidian\\tmp",
-      "TMP": "E:\\yueyutai\\notes\\studt_notes\\.obsidian\\tmp"
-    }
-  },
+  "env": {},
   "showExportProgressBar": true,
   "customDefaultExportDirectory": {
-    "win32": "E:\\yueyutai\\notes\\studt_notes\\exports"
-  }
+    "win32": "E:\\新建文件夹 (2)"
+  },
+  "lastExportDirectory": {
+    "win32": "E:\\新建文件夹 (2)"
+  },
+  "lastExportType": "Word (.docx)"
 }
